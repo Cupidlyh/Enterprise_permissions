@@ -1,0 +1,10 @@
+CREATE TABLE sysLog(
+id INT PRIMARY KEY AUTO_INCREMENT,
+visitTime TIMESTAMP,
+username VARCHAR(50),
+ip VARCHAR(30),
+url VARCHAR(500),
+executionTime INT,
+method VARCHAR(500)
+);
+

@@ -1,0 +1,6 @@
+# Project exclude paths
+/ssm_case_dao/target/
+/ssm_case_domain/target/
+/ssm_case_service/target/
+/ssm_case_utils/target/
+/ssm_case_web/target/

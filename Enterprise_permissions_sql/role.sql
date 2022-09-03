@@ -1,0 +1,10 @@
+-- 角色表
+CREATE TABLE role(
+id INT PRIMARY KEY AUTO_INCREMENT,
+roleName VARCHAR(20) ,
+roleDesc VARCHAR(50)
+);
+
+INSERT INTO role VALUES(1, 'ADMIN', 'vip');
+
+INSERT INTO role VALUES(2, 'USER', 'vip');
