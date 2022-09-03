@@ -1,4 +1,4 @@
-建表顺序
+数据库建表顺序
 1. users
 2. role
 3. users_role
