@@ -9,3 +9,7 @@
 8. sysLog
 9. permission
 10. role_permission
+
+
+
+登陆的话目前数据库Users表存储的仅有用户名：admin，密码：123
